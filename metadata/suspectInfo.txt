@@ -1,0 +1,8 @@
+Harvey Weinstein,14000,Weinstein|HarveyWeinstein|Harvey Scissorhands|HarveyScissorhands
+Larry Nassar,2844,Larry Nassar|Larry_Nassar|LarryNassar|Nassar 
+Cristiano Ronaldo,91369000,Cristiano Ronald|CristianoRonald|Cr7|Cristiano Ronaldo dos Santos Aveiro 
+Mark Halperin,311000,Mark Halperin|MarkHalperin|Halperin
+Neil deGrasse Tyson,14495000,@neiltyson|Neil deGrasse Tyson|deGrasse|haydenplanetarium.org/tyson/
+Matt Lauer,991,Matt Lauer|MattLauer|Lauer
+Russell Simmons,4525000,Russell Simmons|UncleRUSH
+Al Franken,965000,Al Franken|alfranken
