@@ -6,8 +6,6 @@ The diagram below shows a tweets dataset relating to the MeToo movement. We're i
 
 ![trend.png](./img/img1.png)
 
-![Screenshot 2023-09-03 at 12 37 47 AM](https://github.com/YuanMaSa/metoo_tweets_analysis/assets/23623748/12d0f519-c534-48ef-b92d-86b00ed512a2)
-
 
 ## Summary of the Dataset
 ***
